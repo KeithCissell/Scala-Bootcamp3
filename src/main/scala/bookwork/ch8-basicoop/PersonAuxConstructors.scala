@@ -26,9 +26,8 @@ case class Person(
   def this(name: String, address: Address) = this(name, None, Some(address))
 }
 
-object Main {
+object PersonAuxConstructors {
   def main(args: Array[String]) {
-    import bookwork.basicoop.{Address, Person}
 
     val a1 = new Address("1 Scala Lane", "Anytown", "CA", "98765")
     println(a1)

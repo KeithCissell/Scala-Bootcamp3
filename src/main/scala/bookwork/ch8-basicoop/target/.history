@@ -3,3 +3,9 @@ exit
 run
 compile
 run
+exit
+run
+exit
+build
+compile
+exit

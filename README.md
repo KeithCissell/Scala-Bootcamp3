@@ -17,3 +17,12 @@ Working along with O'Reilly's Programming Scala 2nd Edition.
   - derives from Any
   - defines only methods
   - does no initialization of its own
+- Unary Methods
+  - `def unary_X : Type = ...`
+  - Where `X` is the operator character we want to use
+  - Example: Nagative `unary_-` called `-myinstance`
+- Validating Input on construction reduces the need for other developers to validate the type
+- Require
+  - `require(validationCriterion(obj), invalidAction)`
+  - used in the constructor of a class to check validity and handle invalid input
+- `???` operator that simply throws an error. Good for a place holder of a method during development
