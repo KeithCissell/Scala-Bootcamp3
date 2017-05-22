@@ -1,0 +1,137 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes/bookwork/basicoop/Address$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes/bookwork/basicoop/Address.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes/bookwork/basicoop/Person$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes/bookwork/basicoop/Person.class
+binary dependencies:
+2 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> /Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> bookwork.basicoop.Address
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> bookwork.basicoop.Address$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> bookwork.basicoop.Person
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> bookwork.basicoop.Person$
+used names:
+53 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> &&
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> <init>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> ==
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> A
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> AbstractFunction3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Address
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Any
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> AnyRef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Boolean
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> IndexOutOfBoundsException
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Int
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Iterator
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> None
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Nothing
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Object
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Option
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Person
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Predef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Product
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> ScalaRunTime
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Serializable
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Some
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> String
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> T
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> T0
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> T1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> T2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> T3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> T4
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Tuple3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> Tuple4
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> _hashCode
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> _toString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> address
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> age
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> asInstanceOf
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> basicoop
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> bookwork
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> city
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> eq
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> isInstanceOf
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> name
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> package
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> runtime
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> scala
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> state
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> street
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> toString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> typedProductIterator
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> zip
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> zipToCity
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> zipToState
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> ||
+product stamps:
+4 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes/bookwork/basicoop/Address$.class -> lastModified(1495475126000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes/bookwork/basicoop/Address.class -> lastModified(1495475126000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes/bookwork/basicoop/Person$.class -> lastModified(1495475126000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/target/scala-2.10/classes/bookwork/basicoop/Person.class -> lastModified(1495475126000)
+source stamps:
+1 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> hash(e23c59798095405d9f6acc33a4f9ae2c2a05e797)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1491769093000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.runtime.AbstractFunction3
+internal apis:
+1 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLJEdQQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwO5LV/HQABm5vdGlmeXNxAH4ADCSISQF0AAl6aXBUb0NpdHlzcQB+AAy4L78AdAAHdW5hcHBseXNxAH4ADJMRhxd0AARjaXR5c3EAfgAMYKUggXQABG5hbWVzcQB+AAzr5Lm5dAAEd2FpdHNxAH4ADAZfxrN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADGc6k/N0AA0kYXNJbnN0YW5jZU9mc3EAfgAMRucYRHQAA3ppcHNxAH4ADPVmwy10AAVzdGF0ZXNxAH4ADOLrGB10AAxwcm9kdWN0QXJpdHlzcQB+AAwyk9CtdAAGZXF1YWxzc3EAfgAMmEdpl3QAB0FkZHJlc3NzcQB+AAyWvBpcdAAMYXNJbnN0YW5jZU9mc3EAfgAMdaYul3QADHN5bmNocm9uaXplZHNxAH4ADNY7CIF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMFYiczHQACGNhbkVxdWFsc3EAfgAM1Y9Il3QADmNvcHkkZGVmYXVsdCQ0c3EAfgAMw7REOnQADXByb2R1Y3RQcmVmaXhzcQB+AAyqytUVdAADYWdlc3EAfgAMgf6KTnQACW5vdGlmeUFsbHNxAH4ADHjf/tx0AAxpc0luc3RhbmNlT2ZzcQB+AAzSL5uidAAGPGluaXQ+c3EAfgAMHQOqdXQABlBlcnNvbnNxAH4ADGn+3Vt0AAVhcHBseXNxAH4ADKON4SB0AAI9PXNxAH4ADBcfUGp0AAVjbG9uZXNxAH4ADJSe1Ad0AAp6aXBUb1N0YXRlc3EAfgAMleYOvnQABiRpbml0JHNxAH4ADCSMXB50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADE9E7RR0AAdhZGRyZXNzc3EAfgAMVEXp53QABGNvcHlzcQB+AAyktRWhdAAIdG9TdHJpbmdzcQB+AAwa3gbYdAAGc3RyZWV0c3EAfgAMxbbSbnQAAiE9c3EAfgAMKGmOenQACGdldENsYXNzc3EAfgAMcdy5YXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMDsfKhHQAAm5lc3EAfgAMu9N48XQAAmVxc3EAfgAMRZxZrnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADCHf4tx0AAIjI3NxAH4ADNQMczx0AAhmaW5hbGl6ZXNxAH4ADKKDGWp0AA5wcm9kdWN0RWxlbWVudHNxAH4ADB0q5fF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABlib29rd29yay5iYXNpY29vcC5BZGRyZXNzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ab0wACWluaGVyaXRlZHEAfgBvTAAHcGFyZW50c3EAfgBveHEAfgCMc3EAfgCHdXEAfgBqAAAAAHNxAH4Ah3VxAH4AagAAAABzcQB+AId1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5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
+external apis:
+0 items
+source infos:
+1 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration3/src/main/scala/bookwork/ch8-basicoop/PersonAuxConstructors.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXDFDeHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfi9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMy9zcmMvbWFpbi9zY2FsYS9ib29rd29yay9jaDgtYmFzaWNvb3AvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
