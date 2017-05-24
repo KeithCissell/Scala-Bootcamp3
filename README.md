@@ -21,3 +21,16 @@ Working along with O'Reilly's Programming Scala 2nd Edition.
   - Covariant (`+T`) - the value used must be a subtype of `T`
   - Contravariant (`-T`) - the value used must be a supertype of `T`
   - Invariant (`T`) - the type designer decides how the type should vary under inheritance
+- Scala type `AnyRef` is equivalent to `java.lang.Object`
+- Products
+  - Case Classes
+    - Products can be used to work with fields of an instance
+    - `val p: Product = Person("Keith", 21)`
+    - `p.productArity` = returns Int of the number of fields int he instance
+    - `p.productElement(x)` returns Any, the x element of the instance
+      - Note: this returns Any as the type so there are some drawbacks here
+    - `p.productIterator foreach ...` iterates through the field elements
+  - Tuple
+    - Product Tuples can be used on instances and preserve the element's type
+    - `Product2[+T1,+T2]` declaration
+    - elements in a product tuple can be accessed as if they were a tuple
