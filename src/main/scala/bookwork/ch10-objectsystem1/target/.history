@@ -1,3 +1,0 @@
-run
-run -f
-run -i foo -o bar

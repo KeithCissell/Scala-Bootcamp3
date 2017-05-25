@@ -1,9 +1,0 @@
-compile
-exit
-compile
-scala
-exit
-compile
-exit
-run
-exit
