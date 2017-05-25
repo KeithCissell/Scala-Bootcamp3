@@ -34,3 +34,15 @@ Working along with O'Reilly's Programming Scala 2nd Edition.
     - Product Tuples can be used on instances and preserve the element's type
     - `Product2[+T1,+T2]` declaration
     - elements in a product tuple can be accessed as if they were a tuple
+- Condition Checking
+  - Assertion: `assert(assertion: Boolean, message => any)`
+  - Assume: `assume(assertion: Boolean, message => any)` same as assertion
+  - Require: `require(requirement: Boolean, message => any)` also the same as assertion
+  - The difference between these 3 is the function names that will act as a better guide for reading through the code
+- Equality operators
+  - `x equals y` - compares values and returns boolean
+  - `x == y` - same as equals except it has the ability to compare `null` as well
+  - `x != y` - inverse of ==
+  - `x eq y` - compares if the reference is the same (x and y both point at the same location in memory)
+  - `x ne y` - inverse of eq
+  - Comparing arrays: `array(1,2) sameElements array(1,2)`
