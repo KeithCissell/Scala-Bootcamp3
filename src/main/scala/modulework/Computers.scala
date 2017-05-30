@@ -15,7 +15,7 @@ object Computers {
   extends Computer {
     def getExternalDevices() = {
       println("Devices connected to your desktop computer:")
-      for (d <- externalDevices) println(d)
+      externalDevices.foreach(println)
       println
     }
   }
