@@ -1,5 +1,5 @@
 // src/main/scala/modulework/Computers.scala
-package modulework.Computers
+package modulework
 import modulework.Values._
 
 object Computers {
@@ -7,12 +7,12 @@ object Computers {
     def getSpecs() = s"RAM: $ram GB" + "\n" + s"HDD: $storage GB"
   }
 
-  class DesktopComputer(ram: Int, storage: Int, externalDevices: List[String])
+  class DesktopComputer(ram: Int, storage: Int, val externalDevices: List[String])
       extends Computer(ram, storage) {
     def getNumDevices() = externalDevices.length
   }
 
-  class CellPhone(ram: Int, storage: Int, carrier: String)
+  class CellPhone(ram: Int, storage: Int, val carrier: String)
       extends Computer(ram, storage) {
     def getCarrier() = s"Cellphone Carrier: $carrier"
   }
