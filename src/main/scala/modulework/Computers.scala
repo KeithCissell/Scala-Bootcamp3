@@ -9,7 +9,7 @@ object Computers {
 
   class DesktopComputer(ram: Int, storage: Int, externalDevices: List[String])
       extends Computer(ram, storage) {
-    def getExternalDevices() = "Devices connected to your desktop computer:\n" + externalDevices
+    def getNumDevices() = externalDevices.length
   }
 
   class CellPhone(ram: Int, storage: Int, carrier: String)
@@ -21,7 +21,7 @@ object Computers {
     val myExternalDevices = List("Keyboard", "Mouse", "Printer")
     val myDesktop = new DesktopComputer(16, 1000, myExternalDevices)
     println(myDesktop.getSpecs())
-    println(myDesktop.getExternalDevices())
+    println(s"Number of devices attached: ${myDesktop.getNumDevices()}")
 
     val myPhone = new CellPhone(4, 64, "AT&T")
     println(myPhone.getSpecs())
